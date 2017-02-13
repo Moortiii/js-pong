@@ -1,7 +1,6 @@
 var b1;
 var p1;
 var myText;
-var isPlaying;
 
 function setup() {
     var cnv = createCanvas(700, 450);
